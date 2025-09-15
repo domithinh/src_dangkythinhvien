@@ -1,0 +1,16 @@
+[30-Mar-2025 20:47:17 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/thinhvie/quanly.thinhviendaminh.net/user/backend/process_data.php on line 13
+[30-Mar-2025 20:47:17 Asia/Ho_Chi_Minh] reCAPTCHA verification failed: {"success":false,"error-codes":["invalid-input-response"]}
+[28-Apr-2025 21:40:43 Asia/Ho_Chi_Minh] reCAPTCHA verification failed: {"success":false,"error-codes":["timeout-or-duplicate"]}
+[28-Apr-2025 21:48:41 Asia/Ho_Chi_Minh] reCAPTCHA verification failed: {"success":false,"error-codes":["timeout-or-duplicate"]}
+[28-Apr-2025 21:49:07 Asia/Ho_Chi_Minh] reCAPTCHA verification failed: {"success":false,"error-codes":["timeout-or-duplicate"]}
+[28-Apr-2025 21:49:27 Asia/Ho_Chi_Minh] reCAPTCHA verification failed: {"success":false,"error-codes":["timeout-or-duplicate"]}
+[28-Apr-2025 21:49:58 Asia/Ho_Chi_Minh] reCAPTCHA verification failed: {"success":false,"error-codes":["timeout-or-duplicate"]}
+[28-Apr-2025 21:50:22 Asia/Ho_Chi_Minh] reCAPTCHA verification failed: {"success":false,"error-codes":["timeout-or-duplicate"]}
+[28-Apr-2025 21:50:34 Asia/Ho_Chi_Minh] reCAPTCHA verification failed: {"success":false,"error-codes":["timeout-or-duplicate"]}
+[30-Apr-2025 02:14:56 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/thinhvie/quanly.thinhviendaminh.net/user/backend/process_data.php on line 13
+[30-Apr-2025 02:14:56 Asia/Ho_Chi_Minh] reCAPTCHA verification failed: {"success":false,"error-codes":["invalid-input-response"]}
+[04-May-2025 00:53:30 Asia/Ho_Chi_Minh] reCAPTCHA verification failed: {"success":false,"error-codes":["timeout-or-duplicate"]}
+[04-May-2025 01:01:23 Asia/Ho_Chi_Minh] reCAPTCHA verification failed: {"success":false,"error-codes":["timeout-or-duplicate"]}
+[10-May-2025 14:45:43 Asia/Ho_Chi_Minh] reCAPTCHA verification failed: {"success":false,"error-codes":["timeout-or-duplicate"]}
+[10-May-2025 14:46:03 Asia/Ho_Chi_Minh] reCAPTCHA verification failed: {"success":false,"error-codes":["timeout-or-duplicate"]}
+[10-May-2025 14:50:41 Asia/Ho_Chi_Minh] reCAPTCHA verification failed: {"success":false,"error-codes":["timeout-or-duplicate"]}

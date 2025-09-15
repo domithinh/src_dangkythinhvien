@@ -1,0 +1,4 @@
+[26-Mar-2025 21:35:00 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/thinhvie/quanly.thinhviendaminh.net/admin/control/dasboard_registrators.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/thinhvie/quanly.thinhviendaminh.net/admin/control/dasboard_registrators.php on line 69
